@@ -1,11 +1,11 @@
 # **Face Anonymizer**
 
-A simple Python tool to detect and blur faces in images or videos using **MediaPipe** & **OpenCV**.
+A simple Python tool to detect and blur faces in images, videos and webcams using **MediaPipe** & **OpenCV**.
 
 ---
 
 ## **✨ Features**
-- Detects faces in images & videos.
+- Detects faces in images, videos & webcams.
 - Blurs detected faces for privacy.
 - Supports webcam input.
 - Minimal setup.
